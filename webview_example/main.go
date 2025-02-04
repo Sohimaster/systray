@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/getlantern/systray"
-	"github.com/getlantern/systray/example/icon"
+	"github.com/sohimaster/systray"
+	"github.com/sohimaster/systray/example/icon"
 )
 
 func main() {
